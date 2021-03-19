@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "example.service",
+      "type": "com.nuri.starter.config.ExampleServiceProperties",
+      "sourceType": "com.nuri.starter.config.ExampleServiceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "example.service.prefix",
+      "type": "java.lang.String",
+      "sourceType": "com.nuri.starter.config.ExampleServiceProperties"
+    },
+    {
+      "name": "example.service.suffix",
+      "type": "java.lang.String",
+      "sourceType": "com.nuri.starter.config.ExampleServiceProperties"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,4 @@
+META-INF/spring-configuration-metadata.json
+com/nuri/starter/config/ExampleAutoConfigure.class
+com/nuri/starter/config/ExampleServiceProperties.class
+com/nuri/starter/service/ExampleService.class
